@@ -396,12 +396,11 @@
 // list.addFirst(3)
 // list.addFirst(2)
 // list.addFirst(1)
-// list.addLast(4)
+// list.addLast(4) 
 // // list.deleteLast()
 // // list.deleteFirst()
 // console.log(list.indexValue(2))
 // list.printList() 
-
 
 
 
